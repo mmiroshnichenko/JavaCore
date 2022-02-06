@@ -1,10 +1,1 @@
-sdfgsjdfjsdf sf asddsjh gsd fgjhksdfg
- dfg sdf gdsf gd
-d fgdsf
- gdsfgsdf gdsfg dfg s
-fd gdsf gdsf gfdg dfgsd gsfdg
-
- ghjg 
-jfgh
-j gh
-j ghj fgh jgfhj fghj fgjfg
+This data should output to array
