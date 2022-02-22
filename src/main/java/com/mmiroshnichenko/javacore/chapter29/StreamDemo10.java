@@ -28,4 +28,8 @@ public class StreamDemo10 {
         System.out.println("\nIterator splitItr: ");
         splitItr.forEachRemaining((n) -> System.out.println(n));
     }
+
+    public static int parseInt(String s) {
+        return Integer.parseInt(s);
+    }
 }
